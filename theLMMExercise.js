@@ -30,11 +30,12 @@ console.log(skullBones);
 console.log(Math.PI);
 
 //  5
+// These are the steps. Create randomNumber(which is random) by using let(which is set) and Math.random which is set. Next set top number multiplier. Next set to exclude decimals to include only whole numbers. randomNumber ++ adds the number 1 
 let randomNumber = Math.random();
 randomNumber *= 3;
 randomNumber = Math.floor(randomNumber);
 randomNumber++;
-console.log(randomNumber);git
+console.log(randomNumber);
 
 
 
